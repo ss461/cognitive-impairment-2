@@ -1,5 +1,21 @@
 # cognitive-impairment-2# CVMD — Cognitive Variability Measurement Device
 
+New this week - June 20:
+
+
+Grip strength test — new hardware modality, FSR 402 sensor, peak + average force readings
+Web app: cohort/group codes, daily notification reminders, personal baseline tracking (3+ sessions)
+CFF baseline data — 5 readings, stable in 41-43Hz range across different states
+4 new self-test sessions logged this week
+
+
+In progress:
+
+
+Second hardware unit — components built, finishing assembly before tomorrow's session
+Hardware stability — acquired a drill + mat to enclose the device and clean up the breadboard layout
+Researched NYC Makerspace as a resource for laser-cutting an enclosure and future PCB work
+
 **Does your wearable's readiness score actually predict how your brain performs?**
 
 CVMD is a $50 hardware device and browser-based app that measures real-time cognitive performance and correlates it with wearable health data.
