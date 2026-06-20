@@ -81,7 +81,7 @@ Full wiring diagram: `docs/wiring.md`
 
 *This repository is updated every two weeks as part of the Worldwide AI for Science Fellowship.*
 
-New this week - June 20:
+New this week - June 20 Written Update:
 
 
 Grip strength test — new hardware modality, FSR 402 sensor, peak + average force readings
@@ -105,7 +105,7 @@ CVMD is a $50 hardware device and browser-based app that measures real-time cogn
 
 ---
 
-OLD - MAY - JUNE2026
+## OLD - MAY / JUNE 2026
 
 ## The Problem
 
