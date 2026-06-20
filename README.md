@@ -105,6 +105,8 @@ CVMD is a $50 hardware device and browser-based app that measures real-time cogn
 
 ---
 
+OLD - MAY - JUNE2026
+
 ## The Problem
 
 Every morning wearables give you a readiness score. But nobody has validated whether that score predicts how your brain actually performs. CVMD is the ground truth instrument.
