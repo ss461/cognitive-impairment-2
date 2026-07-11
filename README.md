@@ -1,5 +1,37 @@
 # cognitive-impairment-2# CVMD — Cognitive Variability Measurement Device
 
+JULY 10th UPDATE
+## 🔄 Demo #4 Update — July 11
+
+**This week: the market answered.** Posted the same discovery question ("how do you tell a bad
+session from being cooked — and have you ever done something about it?") in the two largest
+aim-training communities (KovaaK's, Aimlabs Discords) and r/Archery.
+
+**Findings:**
+- **Gamers: acceptance culture.** "There's no such thing as a bad session" · "90% of your PB =
+  you're fine." No tracking, no behavior change, no spend. Individuals who can afford a bad rep
+  are ruled out as buyers.
+- **Archers: vibes + workarounds.** Detection is subjective ("I just vibe it"), diagnosis defaults
+  to form — but they showed real workarounds: pre-season baseline logs, "pack it in" rules when
+  groups open up, and an escalation path that literally ends in *"ask a coach to look."* One
+  admitted the misdiagnosis cost: "the more you try to fix the error, the worse it gets."
+- **Conclusion:** readiness is run on feel everywhere; the buyer is the *accountable layer* —
+  coaches — not the athlete.
+
+**Built this week (in response):**
+- **Team Readiness dashboard** (coach-facing: who scrims, who rests, tonight): [LOVABLE_URL]
+- **Live consistency tap test** w/ leaderboard ranked by σ, not speed: [TAP_TEST_URL]
+
+**Pipeline:** NYIT Center for Esports Medicine, NYC Collegiate Esports Circuit, program coach
+(Lesley), r/Fencing coach thread (in mod queue). Three coach interviews targeted for next week.
+
+DEMO VIDEO: https://www.loom.com/share/004a5d7c0aa94016a839e31b230c94d7
+
+
+OLDER UPDATES
+-------
+
+
 June 20th Technical Update
 
 # CVMD — Cognitive Variability Measurement Device
