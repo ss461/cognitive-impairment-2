@@ -19,8 +19,8 @@ aim-training communities (KovaaK's, Aimlabs Discords) and r/Archery.
   coaches — not the athlete.
 
 **Built this week (in response):**
-- **Team Readiness dashboard** (coach-facing: who scrims, who rests, tonight): [LOVABLE_URL]
-- **Live consistency tap test** w/ leaderboard ranked by σ, not speed: [TAP_TEST_URL]
+- **Team Readiness dashboard** (coach-facing: who scrims, who rests, tonight): (https://ready-ace-dashboard.lovable.app)
+
 
 **Pipeline:** NYIT Center for Esports Medicine, NYC Collegiate Esports Circuit, program coach
 (Lesley), r/Fencing coach thread (in mod queue). Three coach interviews targeted for next week.
